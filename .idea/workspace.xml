@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e7c8b70-8239-4595-9fe4-c47a373ea574" name="Default Changelist" comment="" />
+    <list default="true" id="5e7c8b70-8239-4595-9fe4-c47a373ea574" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/mini-fantasy.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/mini-fantasy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scenes/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scenes/menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screen.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +22,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="yuliaasha &lt;50150513+yuliaasha@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Tetzq65JHnHb09TfiTinr2ZU0n" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -54,6 +69,7 @@
       <workItem from="1575366209214" duration="9511000" />
       <workItem from="1575459238811" duration="16278000" />
       <workItem from="1576079598241" duration="625000" />
+      <workItem from="1577211377642" duration="408000" />
     </task>
     <servers />
   </component>

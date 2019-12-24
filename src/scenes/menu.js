@@ -17,7 +17,7 @@ export class Menu extends Scene {
     render(time) {
         this.update(time);
         this.game.screen.drawImage(0, 0, 'title');
-        this.game.screen.print(250, 580, "Нажмите пробел");
+        this.game.screen.print(360, 580, "Нажмите пробел");
         super.render(time);
     }
 }

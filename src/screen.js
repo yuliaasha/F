@@ -85,7 +85,7 @@ export class Screen {
     }
     print(x, y, text) {
         this.context.fillStyle = "#FFFFFF";
-        this.context.font = "22px Georgia";
+        this.context.font = "38px Hangyaboly";
         this.context.fillText(text, x, y);
     }
 
